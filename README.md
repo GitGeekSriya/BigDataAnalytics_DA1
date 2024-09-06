@@ -135,9 +135,25 @@ The output will include:
      - Compare CATI and CAT2 marks to determine the highest score.
      - Output the student’s ID, name, and highest mark for each student.
     
-##Process of Execution
-Creating directory da1 in hdfs. Copying the input files from local dir to hdfs and running the command.
+## Process of Execution
 
-####OUTPUT![output1](https://github.com/user-attachments/assets/7570fe50-db11-45a0-88d8-bae5c7a78e1a)
+1. **Creating Directory in HDFS:**
+   - Create a directory named `da1` in HDFS.
+
+2. **Copying Input Files:**
+   - Copy the input files from the local directory to HDFS.
+
+3. **Running the Command:**
+   - Execute the MapReduce job command to process the data.
+
+### OUTPUT
+
+
+
+![output1](https://github.com/user-attachments/assets/7570fe50-db11-45a0-88d8-bae5c7a78e1a)
+
+
+
 ![output2](https://github.com/user-attachments/assets/62e9dbdd-b749-4084-a176-1be19ad14686)
+
 
