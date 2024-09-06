@@ -1,0 +1,15 @@
+1 John_Doe 1234567890 New_York 2020
+2 Jane_Smith 9876543210 Los_Angeles 2022
+3 Michael_Lee 4567890123 Chicago 2021
+4 Emily_Brown 7890123456 Houston 2021
+5 David_Wilson 2345678901 Philadelphia 2020
+6 Jessica_Taylor 9012345678 Phoenix 2022
+7 Andrew_Clark 3456789012 San_Antonio 2021
+8 Sarah_Martinez 6789012345 San_Diego 2021
+9 Christopher_Johnson 1234567890 Dallas 2020
+10 Ashley_Thompson 9876543210 San_Jose 2020
+11 Daniel_Anderson 4567890123 Austin 2021
+12 Elizabeth_White 7890123456 Jacksonville 2021
+13 Matthew_Harris 2345678901 San_Francisco 2020
+14 Olivia_Martin 9012345678 Columbus 2022
+15 William_Garcia 3456789012 Indianapolis 2021
